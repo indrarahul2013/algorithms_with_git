@@ -36,4 +36,4 @@ The time complexity is O(mn).
 
 ### Implemented in:
 
-- [C++](inversion.c)
+- [C++](https://www.cplusplus.com/)
