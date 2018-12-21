@@ -36,4 +36,4 @@ The time complexity is O(mn).
 
 ### Implemented in:
 
-- [C++](https://www.cplusplus.com/)
+- [C++](www.cplusplus.com/)
